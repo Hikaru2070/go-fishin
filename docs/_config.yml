@@ -62,7 +62,7 @@ navbar:
   - title: "このサイトについて"
     url: /about-this-site/
 footer:
-  copyright: "&copy; 2024 makoto&hikaru other..."
+  copyright: "&copy; 2024 Makoto & Hikaru, other..."
 
 # C. Theme Settings
 chulapa-skin:
