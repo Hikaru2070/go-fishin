@@ -15,9 +15,9 @@ search:
   provider: algolia
   algolia_logo: true
 algolia:
-  application_id        : "GUP7ZFAISA"
-  index_name            : "site-and blog"
-  search_only_api_key   : "1796767120bb570155de04aeca94a06c"
+  application_id        : "71SN4DFM3D"
+  index_name            : "my-site-and-blog"
+  search_only_api_key   : "95ec6d2dfb8950d622728aefafc079a2"
   files_to_exclude:         #Optional
     - _layouts/*.html
     - _includes/*.html
