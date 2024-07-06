@@ -26,4 +26,4 @@ show_sociallinks: false
 
 Introuction
 
-<iframe src="https://onedrive.live.com/embed?resid=E8E2813A02BBACEB%212477&authkey=!ANiSaznESgteuuA" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{% include snippets/video.html fileurl="https://s3.ap-northeast-1-ntt.wasabisys.com/ak1520d-filenow-4/files/20240706-1848_41a484897eff368dcf83e2781c524cf2.mp4" %}
