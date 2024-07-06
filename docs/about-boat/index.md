@@ -26,4 +26,4 @@ show_sociallinks: false
 
 Introuction
 
-{% include snippets/video.html fileurl="./assets/mp4/about.mp4" %}
+<iframe src="https://onedrive.live.com/embed?resid=E8E2813A02BBACEB%212477&authkey=!ANiSaznESgteuuA" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
