@@ -17,7 +17,7 @@ search:
 algolia:
   application_id        : "71SN4DFM3D"
   index_name            : "my-site-and-blog"
-  search_only_api_key   : "dc0847f4a1c6b8046367ab0fb035b2c7"
+  search_only_api_key   : "95ec6d2dfb8950d622728aefafc079a2"
   files_to_exclude:         #Optional
     - _layouts/*.html
     - _includes/*.html
