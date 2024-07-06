@@ -17,7 +17,7 @@ search:
 algolia:
   application_id        : "GUP7ZFAISA"
   index_name            : "site-and blog"
-  search_only_api_key   : "f04b76dc9d46c0f6fc1ca899c09f6f62"
+  search_only_api_key   : "1796767120bb570155de04aeca94a06c"
   files_to_exclude:         #Optional
     - _layouts/*.html
     - _includes/*.html
